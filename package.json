@@ -1,7 +1,8 @@
 {
   "name": "react-ts-vite",
+  "publisher": "Toolkits",
   "displayName": "Frontend in React",
-  "description": "",
+  "description": "## Working with Markdown",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
@@ -48,5 +49,16 @@
     "pflannery.vscode-versionlens",
     "wix.vscode-import-cost",
     "christian-kohler.npm-intellisense"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scout007-27/react-ts-vite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scout007-27/react-ts-vite/issues"
+  },
+  "homepage": "https://github.com/Scout007-27/react-ts-vite#readme"
 }
