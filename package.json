@@ -1,0 +1,52 @@
+{
+  "name": "react-ts-vite",
+  "displayName": "Frontend in React",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "dsznajder.es7-react-js-snippets",
+    "msjsdiag.vscode-react-native",
+    "rodrigovallades.es7-react-js-snippets",
+    "infeng.vscode-react-typescript",
+    "alduncanson.react-hooks-snippets",
+    "maxvanderschee.web-accessibility",
+    "reduckted.vscode-gitweblinks",
+    "ms-vscode.live-server",
+    "esbenp.prettier-vscode",
+    "kisstkondoros.vscode-gutter-preview",
+    "bierner.markdown-preview-github-styles",
+    "alisson.html-preview-vscode",
+    "yzhang.markdown-all-in-one",
+    "cweijan.vscode-office",
+    "bierner.markdown-emoji",
+    "bierner.markdown-checkbox",
+    "formulahendry.code-runner",
+    "naumovs.color-highlight",
+    "alefragnani.bookmarks",
+    "mikestead.dotenv",
+    "ms-vscode.vscode-typescript-next",
+    "mariusalchimavicius.json-to-ts",
+    "quicktype.quicktype",
+    "zainchen.json",
+    "mohsen1.prettify-json",
+    "redhat.vscode-yaml",
+    "docsmsft.docs-yaml",
+    "bradlc.vscode-tailwindcss",
+    "austenc.tailwind-docs",
+    "zarifprogrammer.tailwind-snippets",
+    "pranaygp.vscode-css-peek",
+    "ecmel.vscode-html-css",
+    "antfu.vite",
+    "zixuanchen.vitest-explorer",
+    "jasonnutter.search-node-modules",
+    "pflannery.vscode-versionlens",
+    "wix.vscode-import-cost",
+    "christian-kohler.npm-intellisense"
+  ]
+}
