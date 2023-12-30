@@ -3,7 +3,7 @@
   "publisher": "Toolkits",
   "displayName": "Frontend in React",
   "description": "A comprehensive collection of extensions enhancing the overall development experience in VSCode for frontend development with React, TypeScript, Vite server, and Tailwind CSS.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -11,6 +11,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "christian-kohler.npm-intellisense",
     "dsznajder.es7-react-js-snippets",
     "msjsdiag.vscode-react-native",
     "rodrigovallades.es7-react-js-snippets",
@@ -25,6 +26,7 @@
     "ecmel.vscode-html-css",
     "jpoissonnier.vscode-styled-components",
     "ms-vscode.live-server",
+    "ritwickdey.liveserver",
     "mikestead.dotenv",
     "antfu.vite",
     "zixuanchen.vitest-explorer",
@@ -48,8 +50,7 @@
     "mohsen1.prettify-json",
     "redhat.vscode-yaml",
     "docsmsft.docs-yaml",
-    "reduckted.vscode-gitweblinks",
-    "christian-kohler.npm-intellisense"
+    "reduckted.vscode-gitweblinks"
   ],
   "repository": {
     "type": "git",

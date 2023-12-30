@@ -1,4 +1,7 @@
   "extensionPack": [
+    //Intellisense 
+    "christian-kohler.npm-intellisense"
+
     // React and TypeScript
     "dsznajder.es7-react-js-snippets",
     "msjsdiag.vscode-react-native",
@@ -18,6 +21,7 @@
 
     // Server and Environment
     "ms-vscode.live-server",
+    "ritwickdey.liveserver",
     "mikestead.dotenv",
     "antfu.vite",
     "zixuanchen.vitest-explorer",
