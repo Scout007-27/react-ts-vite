@@ -1,22 +1,13 @@
-{
-  "name": "react-ts-vite",
-  "publisher": "Toolkits",
-  "displayName": "Frontend in React",
-  "description": "A comprehensive collection of extensions enhancing the overall development experience in VSCode for frontend development with React, TypeScript, Vite server, and Tailwind CSS.",
-  "version": "0.0.3",
-  "engines": {
-    "vscode": "^1.85.0"
-  },
-  "categories": [
-    "Extension Packs"
-  ],
   "extensionPack": [
+    // React and TypeScript
     "dsznajder.es7-react-js-snippets",
     "msjsdiag.vscode-react-native",
     "rodrigovallades.es7-react-js-snippets",
     "infeng.vscode-react-typescript",
     "alduncanson.react-hooks-snippets",
     "ms-vscode.vscode-typescript-next",
+
+    // Styling and CSS
     "maxvanderschee.web-accessibility",
     "bradlc.vscode-tailwindcss",
     "austenc.tailwind-docs",
@@ -24,16 +15,22 @@
     "pranaygp.vscode-css-peek",
     "ecmel.vscode-html-css",
     "jpoissonnier.vscode-styled-components",
+
+    // Server and Environment
     "ms-vscode.live-server",
     "mikestead.dotenv",
     "antfu.vite",
     "zixuanchen.vitest-explorer",
+
+    // Code editing and navigation
     "esbenp.prettier-vscode",
     "kisstkondoros.vscode-gutter-preview",
     "alefragnani.bookmarks",
     "jasonnutter.search-node-modules",
     "pflannery.vscode-versionlens",
     "wix.vscode-import-cost",
+
+    // Markdown and documentation
     "bierner.markdown-preview-github-styles",
     "alisson.html-preview-vscode",
     "yzhang.markdown-all-in-one",
@@ -41,6 +38,8 @@
     "bierner.markdown-emoji",
     "bierner.markdown-checkbox",
     "formulahendry.code-runner",
+
+    // JSON and YAML
     "naumovs.color-highlight",
     "mariusalchimavicius.json-to-ts",
     "quicktype.quicktype",
@@ -48,18 +47,8 @@
     "mohsen1.prettify-json",
     "redhat.vscode-yaml",
     "docsmsft.docs-yaml",
+
+    // Git and GitHub related
     "reduckted.vscode-gitweblinks",
     "christian-kohler.npm-intellisense"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Scout007-27/react-ts-vite.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Scout007-27/react-ts-vite/issues"
-  },
-  "homepage": "https://github.com/Scout007-27/react-ts-vite#readme"
-}
+  ]
