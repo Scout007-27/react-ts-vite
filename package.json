@@ -2,7 +2,7 @@
   "name": "react-ts-vite",
   "publisher": "Toolkits",
   "displayName": "Frontend in React",
-  "description": "## Working with Markdown",
+  "description": "Extension pack for Frontend stuff.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
